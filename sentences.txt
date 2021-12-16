@@ -1,0 +1,53 @@
+ông_bà dursley, nhà số 4 đường privet drive, tự_hào mà nói họ hoàn_toàn bình_thường, cám_ơn bà_con quan_tâm
+bà con đừng trông_mong gì họ tin vào những chuyện kỳ_lạ hay bí_ẩn, đơn_giản là vì họ chẳng hơi đâu bận_tâm đến mấy trò vớ_vẩn đó
+ông dursley là giám_đốc một công_ty gọi là grunnings, chuyên sản_suất máy_khoan
+ông là một người cao_lớn lực_lưỡng, cổ gần như không có, nhưng lại có một bộ ria mép vĩ_đại
+bà dursley thì ốm_nhom, tóc vàng, với một cái cổ dài gấp đôi bình_thường, rất tiện cho bà nhóng qua hàng_rào để dòm_ngó nhà hàng_xóm
+hai ông_bà dursley có một cậu quý_tử tên là dudley, mà theo ý họ thì không thể có đứa_bé nào trên đời này ngoan hơn được nữa
+gia_đình dursley có mọi thứ mà họ muốn, nhưng họ cũng có một bí_mật, và nỗi sợ_hãi lớn nhất của họ là cái bí_mật đó bị ai đó bật mí
+họ sợ mình sẽ khó mà chịu_đựng nổi nếu câu_chuyện về gia_đình potter bị người ta khám_phá
+bà potter là em_gái của bà dursley, nhưng nhiều năm rồi họ chẳng hề gặp_gỡ nhau
+bà dursley lại còn giả_đò như mình không có chị_em nào hết, bởi vì cô_em cùng ông_chồng vô_tích_sự của cô_ta chẳng thể nào có được phong_cách của gia_đình dursley
+ông_bà dursley vẫn rùng_mình ớn_lạnh mỗi khi nghĩ đến chuyện hàng_xóm sẽ nói gì nếu thấy gia_đình potter xuất_hiện trước cửa nhà mình
+họ biết gia_đình potter có một đứa con_trai nhỏ, nhưng họ cũng chưa từng nhìn thấy nó
+đứa bé đó cũng là một lý_do khiến họ tránh_xa gia_đình potter: họ không muốn cậu quý_tử dudley chung_chạ với một thằng con_nít nhà potter
+vào một buổi_sáng thứ ba xám_xịt âm_u, ông bà dursley thức_dậy, chẳng hề cảm_thấy chút gì rằng bầu_trời đầy mây kia đang báo_hiệu những điều lạ_lùng bí_ẩn sắp xảy_ra trên cả nước anh
+ông dursley ậm_ừ khi chọn cái cà-vạt chán nhất thế_giới đeo vào cổ đi làm
+bà dursley thì lách_chách nói trong lúc vật_lộn với cậu quý_tử dudley đang gào_khóc vùng_vẫy, không chịu ngồi ăn_sáng tử_tế
+không một ai để_ý đến một con cú to và đen_thui bay xẹt qua cửa_sổ
+tám giờ rưỡi, ông dursley sách cặp, hửi cồ bà dursley một cái và cố hôn cậu quý_tử trước khi đi làm
+nhưng cậu dudley đang chơi trò đánh_trống thổi_kèn, phun phèo_phèo thức_ăn và vun_vãi mọi thứ tứ_tung, kể cả cái hôn của cha
+ông dursley vừa cười khoái_chí: “thằng chó con”, vừa đi ra khỏi nhà
+ông lên xe, lái ra khỏi ngôi_nhà số 4 của mình
+chính ở ngay góc đường, ông nhận_thấy dấu_hiệu đầu_tiên của chuyện lạ: một con mèo xem bản_đồ
+thoạt_tiên, ông dursley không nhận_ra đó là chuyện kỳ_quái
+thế rồi ông giật_mình quay_lại nhìn lần nữa
+có một con mèo hoang đứng ở góc đường privet drive, nhưng bây giờ lại chẳng có tấm bản_đồ nào cả! 
+chẳng lẽ chuyện đó là do ông tưởng_tượng ra ư? 
+hay ánh_sáng đã làm ông lóa_mắt? 
+ông dursley chớp_chớp mắt rồi chăm_chú nhìn con mèo
+nó cũng nhìn lại ông
+ông lái xe vòng qua góc đường, đi tiếp, và tiếp_tục nhìn con mèo qua kính chiếu hậu
+nó lúc ấy đang đọc bảng tên đường privet drive- à không, ngó bảng tên đường chứ, mèo đâu có thể đọc bảng tên đường hay xem bản_đồ
+ông dursley lắc_lắc đầu, đuổi con mèo ra khỏi óc
+khi lái xe vào thành_phố, ông không muốn nghĩ đến cái_gì khác hơn là những đơn_đắt_hàng máy_khoan mà ông mong có được nhiều thật nhiều trong ngày hôm đó
+thống_kê các từ_ghép và tần_suất của chúng.
+xử_lý ngôn_ngữ tự_nhiên là khái_niệm để chỉ các kĩ_thuật, phương_pháp thao_tác trên ngôn_ngữ tự_nhiên bằng máy_tính
+python là 1 ngôn_ngữ hướng_đối_tượng.
+gia_đình là tổ_ấm hạnh_phúc.
+hôm_nay trời đẹp quá.
+tôi thua_thiệt với bạn_bè.
+ba là người đàn_ông trụ_cột trong gia_đình.
+bố_mẹ là tuyệt_vời nhất đối với chúng_ta.
+hoa_hồng là một loài_hoa đẹp.
+tôi yêu quê_hương, đất_nước.
+tiếng_việt cực kỳ phong_phú, có thể nói là phức_tạp trong cấu_tạo và cả ngữ_nghĩa.
+ai cũng có tổ_tiên, cội_nguồn để nhớ.
+máy_tính rất quan_trọng, đặc_biệt là đối với sinh_viên.
+xe_máy là phương_tiên lưu_thông, còn điện_thoại là phương_tiện liên_lạc.
+chàng_trai bơ_vơ từ xa trong tim hụt_hẫn như mất một thứ gì.
+chăm_chỉ đọc sách để hoàn_thiện bản_thân.
+học_tập, học_hỏi để không ngừng nâng_cao bản_thân.
+đường_sá sài_gòn hôm_nay đông_đúc.
+đất_nước là nơi tôi sinh ra và lớn lên.
+khi bạn nuôi một con_vật, là bạn phải sẵn_sàng chấp_nhận nổi_đau khi mất đi chúng.
