@@ -1,54 +1,56 @@
-gia_đình/N là/V tổ_ấm/N hạnh_phúc/A .
-hôm_nay/W trời/N đẹp/A quá/P .
-tôi/N thua_thiệt/V với/Q bạn_bè/N .
-ba/N là/V người/N đàn_ông/N trụ_cột/N trong/Q gia_đình/N .
-bố_mẹ/N là/V tuyệt_vời/A nhất/P đối_với/Q chúng_ta/N .
-hoa_hồng/N là/V một/M loài_hoa/N đẹp/A .
-tôi/N yêu/V quê_hương/N , đất_nước/N .
-tiếng_việt/N cực_kỳ/P phong_phú/A , có_thể/Q nói/V là/V phức_tạp/A trong/Q cấu_tạo/N và/Q cả/T ngữ_nghĩa/N .
-ai/D cũng/T có/V tổ_tiên/N , cội_nguồn/N để/Q nhớ/V .
-máy_tính/N rất/P quan_trọng/A , đặc_biệt/P là/V đối_với/Q sinh_viên/N .
-xe_máy/N là/V phương_tiên/N lưu_thông/N , còn/Q điện_thoại/N là/V phương_tiện/N liên_lạc/N .
-chàng_trai/N bơ_vơ/A từ/W xa/A trong/W tim/N hụt_hẫn/A như/Q mất/V một/M thứ/N gì/D .
-chăm_chỉ/A đọc/V sách/N để/Q hoàn_thiện/V bản_thân/N .
-học_tập/V , học_hỏi/V để/Q không/T ngừng/V nâng_cao/V bản_thân/N .
-đường_sá/N sài_gòn/N hôm_nay/W đông_đúc/A .
-đất_nước/N là/V nơi/N tôi/N sinh/V ra/P và/Q lớn/V lên/P .
-khi/W bạn/N nuôi/V một/M con_vật/N , là/Q bạn/N phải/P sẵn_sàng/A chấp_nhận/V nổi_đau/N khi/W mất/V đi/P chúng/N .
-tôi/N thích/V vẽ/V và/Q chơi/V bóng_đá/N .
-đây/W là/N một/M câu/N nói/V bình_thường/A .
-tôi/N thích/V những/L điều/N đơn_giản/A .
-những/L người/N nói/V nhiều/W là/V những/L người/N không/P nói/V ít/W.
-họ/D cười/V tôi/N vì/Q tôi/N không/P giống/A họ/D.
-tôi/N cười/V họ/D vì/Q tôi/Q bị/V ngu/A.
-tôi/N đang/P viết/V những/L dòng/N ngu_ngốc/A .
-chính/T họ/D là/V thủ_phạm/N.
-tôi/N chỉ/T ăn/V trái/N dưa_hấu/N đó/C.
-anh_ấy/D thường_xuyên/W tắm/V rất/P lâu/A.
-em/N cám_ơn/V ạ/I.
-à/I.
-thôi/I.
-anh/N không/P làm/V việc/N đó/C đâu/I.
 
-Tết_Nguyên_Đán/N không/P chỉ/T là/V khoảng/L thời_gian/N chuyển_giao/V giữa/Q năm/N cũ/A và/Q năm/N mới/A Âm_lịch/N, mà/Q nó/D còn/Q chứa_đựng/V nhiều/A ý_nghĩa/N tâm_linh/N, văn_hóa/N,...
-Theo/Q quan_niệm/N phương_Đông/N, đây/D là/V khoảng/L thời_gian/N trời_đất/N có/V sự/N giao_hòa/V và/Q con_người/N trở_nên/V gần/A với/Q thần_linh/N.
-Tết_Nguyên_Đán/N của/Q Việt_Nam/N được/P tính/V theo/Q Âm_lịch/N, muộn/V hơn/Q Tết_Dương_lịch/N.
-Do/Q quy_luật/N ba/M năm/N nhuận/V một/M tháng/N của/Q Âm_lịch/N nên/Q ngày/N đầu/W năm/N của/Q dịp/N Tết_Nguyên_Đán/N không_bao_giờ/P trước/V ngày/V hai_mười_mốt/M tháng/N một/M Dương_lịch/N 
-và/Q sau/V ngày/N mười_chín/M tháng/N hai/M Dương_lịch/N, mà/Q thường/W chỉ/P rơi/V vào/T khoảng/L giữa/Q những/L ngày/N này/C.
-Thời_gian/N diễn_ra/V Tết_Nguyên_Đán/N hàng_năm/W thường/P kéo_dài/V trong/Q khoảng/L bảy/M - tám/M ngày/N cuối/A năm/N cũ/A và/Q bảy/M ngày/N đầu/A năm/N mới/A.
-Tết_Nguyên_Đán/N là/V dịp/N để/Q người/N nông_dân/N bày_tỏ/V lòng/N thành_kính/A đến/Q các/L vị/N thần_linh/N và/Q cầu/V cho/T một/M năm/N mưa/N thuận/A gió/N hòa/A, mùa_màng/N bội_thu/A. 
-Bên_cạnh/V đó/D, đây/D còn/Q được/P coi/V là/V ngày/N làm_mới/V, ngày/N để/Q mọi/L người/N có_thể/P hy_vọng/V vào/Q một/M năm/N mới/A an_lành/A, sung_túc/A, thuận_lợi/A trong/Q cả_năm/W và/Q gác_lại/V mọi/L điều/N không/P may_mắn/A trong/Q năm/N cũ/A.
-Do_vậy/Q, vào/Q dịp/N Tết/N, nhà/N nào/C cũng/P tất_bật/W dọn_dẹp/V, sắm_sửa/V, trang_hoàng/V nhà_cửa/N cho/T thật/P đẹp/A.
-Đây/D cũng/P là/V dịp/N mọi/L người/N làm_mới/V lại/P về/Q phần/N tình_cảm/N và/Q tinh_thần/N để/Q mối/N liên_hệ/V với/Q người_thân/N được/P gắn_bó/V hơn/P, tinh_thần/N thoải_mái/A, tươi_vui/A hơn/P.
-Trong/Q dịp/N Tết/N, các/L gia_đình/N thường/P tụ_họp/V chúc_Tết/V nhau/P, cùng_nhau/P thắp/V nén_hương/N tưởng_nhớ/V ông_bà/N, tổ_tiên/N, tạ_ơn/V ông_bà/N, tổ_tiên/N đã/P phù_hộ/V trong/T suốt/T một/M năm/N qua/T. 
-Theo/Q quan_niệm/N của/Q người/N Việt_Nam/N, ngày/N Tết/N đầu/A xuân/N là/V ngày/N đoàn_tụ/V, đoàn_viên/V, mối/N quan_hệ/N họ_hàng/N làng_xóm/N được/P mở_rộng/V ra/P, ràng_buộc/V lẫn_nhau/P thành/Q đạo_lý/N chung/A cho/T cả/L xã_hội/N:
-tình_cảm/N gia_đình/N, tình_cảm/N thầy_trò/N, bệnh_nhân/N với/Q thầy_thuốc/N, ông_mai/N bà_mối/N đã_từng/P tác_thành/V đôi_lứa/N, bè_bạn/N cố_tri/N…
-Trong/Q mỗi/L gia_đình/N Việt_Nam/N, bàn_thờ/N gia_tiên/N có/V một/M vị_trí/N rất/P quan_trọng/A.
-Bàn_thờ/N gia_tiên/N ngày/N Tết/N là/V sự/N thể_hiện/V lòng/N tưởng_nhớ/V, kính_trọng/V của/Q người_Việt/N đối_với/Q tổ_tiên/N,
-người_thân/N đã/P khuất/V với/Q những/L mâm/N ngũ_quả/N được/P lựa_chọn/V kỹ_lưỡng/W; mâm_cỗ/N với/Q nhiều/A món/N ngon/A hay/Q những/L món_ăn/N quen_thuộc/A của/Q người/N đã/P mất/V.
-Từ/Q đây/D cho/T đến/Q hết/A Tết/N, khói_hương/N trên/Q bàn_thờ/N gia_tiên/N quyện/V với/P không_khí/N thiêng_liêng/A của/Q sự/N giao_hòa/V vũ_trụ/N làm_cho/V con_người/N trở_nên/V gắn_bó/V với/P gia_đình/N của/Q mình/D hơn/P bao_giờ_hết/W.
-Sau/W Tết_Nguyên_Đán/N, cuộc_sống/N lại/P bắt_đầu/V một/M chu_trình/N mới/A của/Q một/M năm/N. 
-Mọi/L người/N trở_về/V với/Q công_việc/N thường_nhật/A của/Q mình/D, mang_theo/V những/L tình_cảm/N gia_đình/N đầm_ấm/A có/V được/P trong/Q những/L ngày/N Tết/N để/P hướng_đến/V những/L niềm_vui/N trong/Q cuộc_sống/N và/Q những/L thành_công/N mới/A trong/Q tương_lai/N.
+gia_đình/N là/V tổ_ấm/N hạnh_phúc/A .
+hôm_nay/N trời/N đẹp/A quá/R .
+tôi/N thua_thiệt/V với/C bạn_bè/N .
+ba/N là/V người/N đàn_ông/N trụ_cột/N trong/C gia_đình/N .
+bố_mẹ/N là/V tuyệt_vời/A nhất/R đối_với/C chúng_ta/P .
+hoa_hồng/N là/V một/M loài/N hoa/N đẹp/A .
+tôi/P yêu/V quê_hương/N , đất_nước/N .
+tiếng/N việt/N cực_kỳ/R phong_phú/A , có_thể/R nói/V là/V phức_tạp/A trong/C cấu_tạo/N và/c cả/P ngữ_nghĩa/N .
+ai/P cũng/R có/V tổ_tiên/N , cội_nguồn/N để/C nhớ/V .
+máy_tính/N rất/Q quan_trọng/A , đặc_biệt/A là/V đối_với/C sinh_viên/N .
+xe_máy/N là/V phương_tiện/N lưu_thông/V , còn/R điện_thoại/N là/V phương_tiện/N liên_lạc/V .
+chàng_trai/N bơ_vơ/A từ/E xa/A trong/C tim/N hụt_hẫn/A như/C mất/V một/M thứ/N gì/P .
+chăm_chỉ/A đọc/V sách/N để/C hoàn_thiện/V bản_thân/N .
+học_tập/V , học_hỏi/V để/C không/R ngừng/V nâng/V cao/A bản_thân/N .
+đường_sá/N sài_gòn/N hôm_nay/N đông_đúc/A .
+việt_nam/N là/V nơi/N tôi/N sinh/V ra/v và/C lớn/V lên/V .
+Khi/N bạn/N nuôi/V một/M con/N vật/N , là/V bạn/N phải/V sẵn_sàng/A chấp_nhận/V nổi_đau/N khi/N mất/V đi/V chúng/P .
+tôi/N thích/V vẽ/V và/C chơi/V bóng_đá/N .
+đây/P là/N một/M câu/N nói/V bình_thường/A .
+tôi/N thích/V những/D điều/N đơn_giản/A .
+những/D người/N nói/V nhiều/A là/V những/D người/N không/R nói/V ít/A.
+họ/P cười/V tôi/N vì/C tôi/N không/r giống/A họ/P.
+tôi/N cười/V họ/P vì/C tôi/N bị/V ngu/A.
+tôi/N đang/R viết/V những/D dòng/N ngu_ngốc/A .
+chính/I họ/P là/V thủ_phạm/N.
+tôi/N chỉ/R ăn/V trái/N dưa_hấu/N đó/P.
+anh/N ấy/P thường_xuyên/A tắm/V rất/R lâu/A.
+em/N cám_ơn/V ạ/I.
+à/O.
+thôi/O.
+anh/N không/R làm/V việc/N đó/P đâu/I.
+
+Tết_Nguyên_Đán/N không/R chỉ/R là/V khoảng/N thời_gian/N chuyển_giao/V giữa/Q năm/N cũ/A và/C năm/N mới/A Âm_lịch/N, mà/C nó/P còn/R chứa_đựng/V nhiều/A ý_nghĩa/N tâm_linh/N, văn_hóa/N,...
+Theo/V quan_niệm/N phương/N Đông/N, đây/P là/V khoảng/N thời_gian/N trời_đất/N có/V sự/N giao_hòa/V và/C con_người/N trở_nên/V gần/A với/C thần_linh/N.
+Tết_Nguyên_Đán/N của/E Việt_Nam/N được/R tính/V theo/V Âm_lịch/N, muộn/V hơn/A Tết_Dương_lịch/N.
+Do/C quy_luật/N ba/M năm/N nhuận/A một/M tháng/N của/E Âm_lịch/N nên/C ngày/N đầu/N năm/N của/E dịp/N Tết_Nguyên_Đán/N không/R bao_giờ/P trước/N ngày/N hai_mười_mốt/M tháng/N một/M Dương_lịch/N 
+và/C sau/N ngày/N mười_chín/M tháng/N hai/M Dương_lịch/N, mà/C thường/R chỉ/R rơi/V vào/E khoảng/N giữa/E những/D ngày/N này/P.
+Thời_gian/N diễn_ra/V Tết_Nguyên_Đán/N hằng/R năm/N thường/R kéo_dài/V trong/C khoảng/N bảy/M - tám/M ngày/N cuối/N năm/N cũ/A và/C bảy/M ngày/N đầu/N năm/N mới/A.
+Tết_Nguyên_Đán/N là/V dịp/N để/C người/N nông_dân/N bày_tỏ/V lòng/N thành_kính/A đến/E các/D vị/N thần_linh/N và/C cầu/V cho/E một/M năm/N mưa/N thuận/A gió/N hòa/A, mùa_màng/N bội_thu/A.
+Bên/N cạnh/N đó/P, đây/P còn/R được/R coi/V là/V ngày/N làm/V mới/A, ngày/N để/C mọi/D người/N có_thể/R hy_vọng/V vào/E một/M năm/N mới/A an_lành/A, sung_túc/A, thuận_lợi/A trong/E cả/P năm/N và/C gác_lại/V mọi/D điều/N không/R may_mắn/A trong/E năm/N cũ/A.
+Do_vậy/C, vào/V dịp/N Tết/N, nhà/N nào/P cũng/R tất_bật/A dọn_dẹp/V, sắm_sửa/V, trang_hoàng/V nhà_cửa/N cho/E thật/R đẹp/A.
+Đây/E cũng/R là/V dịp/N mọi/D người/N làm/V mới/A lại/R về/E phần/N tình_cảm/N và/C tinh_thần/N để/C mối/N liên_hệ/V với/C người_thân/N được/R gắn_bó/V hơn/A, tinh_thần/N thoải_mái/A, tươi_vui/A hơn/A.
+Trong/E dịp/N Tết/N, các/D gia_đình/N thường/R tụ_họp/V chúc/V Tết/N nhau/N, cùng/C nhau/N thắp/V nén/N hương/N tưởng_nhớ/V ông_bà/N, tổ_tiên/N, tạ_ơn/V ông_bà/N, tổ_tiên/N đã/R phù_hộ/V trong/E suốt/A một/M năm/N qua/V. 
+Theo/V quan_niệm/N của/E người/N Việt_Nam/N, ngày/N Tết/N đầu/N xuân/N là/V ngày/N đoàn_tụ/V, đoàn_viên/V, mối/N quan_hệ/N họ_hàng/N làng_xóm/N được/R mở_rộng/V ra/R, ràng_buộc/V lẫn/R nhau/N thành/V đạo_lý/N chung/A cho/E cả/P xã_hội/N: 
+tình_cảm/N gia_đình/N, tình_cảm/N thầy_trò/N, bệnh_nhân/N với/C thầy_thuốc/N, ông/N mai/N bà/N mối/N đã/R từng/R tác_thành/V đôi_lứa/N, bè_bạn/N cố_tri/N...
+Trong/C mỗi/D gia_đình/N Việt_Nam/N, bàn_thờ/N gia_tiên/N có/V một/M vị_trí/N rất/R quan_trọng/A.
+Bàn_thờ/N gia_tiên/N ngày/N Tết/N là/V sự/N thể_hiện/V lòng/N tưởng_nhớ/V, kính_trọng/V của/Q người/N Việt/N đối_với/C tổ_tiên/N, 
+người_thân/N đã/R khuất/V với/C những/D mâm/N ngũ_quả/N được/R lựa_chọn/V kỹ_lưỡng/A; mâm/N cỗ/N với/C nhiều/A món/N ngon/A hay/R những/D món/N ăn/V quen_thuộc/A của/E người/N đã/R mất/V.
+Từ/E đây/P cho/E đến/E hết/A Tết/N, khói_hương/N trên/E bàn_thờ/N gia_tiên/N quyện/V với/C không_khí/N thiêng_liêng/A của/E sự/N giao_hòa/V vũ_trụ/N làm/V cho/E con_người/N trở_nên/V gắn_bó/V với/C gia_đình/N của/C mình/P hơn/A bao_giờ/P hết/I.
+Sau/N Tết_Nguyên_Đán/N, cuộc_sống/N lại/R bắt_đầu/V một/M chu_trình/N mới/A của/E một/M năm/N. 
+Mọi/D người/N trở_về/V với/C công_việc/N thường_nhật/A của/E mình/P, mang/V theo/V những/D tình_cảm/N gia_đình/N đầm_ấm/A có/V được/R trong/E những/D ngày/N Tết/N để/C hướng/V đến/E những/D niềm/N vui/A trong/C cuộc_sống/N và/C những/D thành_công/N mới/A trong/C tương_lai/N.
+
 
 
 

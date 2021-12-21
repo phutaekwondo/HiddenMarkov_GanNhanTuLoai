@@ -1,19 +1,19 @@
-hôm_nay/W gia_đình/N hạnh_phúc/A .
-anh/N chỉ/P thích/V em/N thôi/I .
-tôi/N đang/P chơi/V bóng_đá/N .
+hôm_nay/N gia_đình/N hạnh_phúc/A .
+anh/N chỉ/R thích/V em/N thôi/I .
+tôi/N đang/R chơi/V bóng_đá/N .
 tôi/N yêu/V hoa_hồng/N .
-tôi/N thường_xuyên/W ăn/V dưa_hấu/N .
-học_tập/V để/Q bản_thân/N không/P thua_thiệt/V với/Q bạn_bè/N .
+tôi/N thường_xuyên/A ăn/V dưa_hấu/N .
+học_tập/V để/C bản_thân/N không/R thua_thiệt/V với/C bạn_bè/N .
 tôi/N ghét/V chơi/V bóng/N .
-ai/D cũng/T tắm/V .
+ai/P cũng/R tắm/V .
 Tết_Nguyên_Đán/N là/V ngày/N đoàn_tụ/V gia_đình/N.
-Đây/D là/V khoảng/L thời_gian/N thiêng_liêng/A của/Q người/N Việt_Nam/N.
-Mọi/L người/N trong/Q gia_đình/N chúc_Tết/V ông_bà/N.
-Ngày/N để/P tưởng_nhớ/V những/L người_thân/N đã/P mất/V.
-Thầy_thuốc/N không_bao_giờ/P lựa_chọn/V món_ăn/N ngon/A.
-Trong/Q dịp/N Tết_Dương_lịch/N, người_Việt/N sắm_sửa/V hai_mươi_mốt/M mâm/N ngũ_quả/N.
-Gia_đình/N rất/P quan_trọng/A đối_với/Q mỗi/L con_người/N.
-Ngày/N gia_đình/N dọn_dẹp/V là/V ngày/N mười_chín/M tháng/N một/M hàng_năm/W.
-Nén_hương/N bắt_đầu/V quyện/V vào/Q không_khí/N thiêng_liêng/A ngày/N Tết/N.
-Tết_Nguyên_Đán/N là/V dịp/N ý_nghĩa/N để/Q tưởng_nhớ/V tổ_tiên/N.
+Đây/P là/V khoảng/N thời_gian/N thiêng_liêng/A của/E người/N Việt_Nam/N.
+Mọi/D người/N trong/C gia_đình/N chúc/V Tết/N ông_bà/N.
+Ngày/N để/C tưởng_nhớ/V những/D người_thân/N đã/R mất/V.
+Thầy_thuốc/N không/R bao_giờ/P lựa_chọn/V món/N ăn/V ngon/A.
+Trong/E dịp/N Tết_Dương_lịch/N, người/N Việt/N sắm_sửa/V hai_mươi_mốt/M mâm/N ngũ_quả/N.
+Gia_đình/N rất/R quan_trọng/A đối_với/C mỗi/D con_người/N.
+Ngày/N gia_đình/N dọn_dẹp/V là/V ngày/N mười_chín/M tháng/N một/M hằng/R năm/N.
+Nén/N hương/N bắt_đầu/V quyện/V vào/E không_khí/N thiêng_liêng/A ngày/N Tết/N.
+Tết_Nguyên_Đán/N là/V dịp/N ý_nghĩa/N để/C tưởng_nhớ/V tổ_tiên/N.
 
